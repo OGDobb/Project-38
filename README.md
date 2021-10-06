@@ -1,1 +1,2 @@
-# Project-38
+# Trex
+Trex game created using p5.play
